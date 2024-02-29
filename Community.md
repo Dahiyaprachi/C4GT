@@ -891,21 +891,21 @@
       <td>Maharaja Surajmal Institute of Technology</td>
   </tr>
 </table>
-<table>
+ <table>
   <tr>
       <td>Name</td>
-      <td>Abhishek Yadav</td>
+      <td>Prachi Dahiya</td>
   </tr>
   <tr>
       <td>GitHub</td>
-      <td>https://github.com/y3abhishek</td>
+      <td>https://github.com/dahiyaprachi</td>
   </tr>
   <tr>
       <td>LinkedIn</td>
-      <td>https://www.linkedin.com/in/y1abhishek/</td>
+      <td>https://www.linkedin.com/in/prachi-dahiya-8b423a23b</td>
   </tr>
   <tr>
       <td>College</td>
-      <td>SRCC</td>
+      <td>Maharaja Surajmal Institute</td>
   </tr>
 </table>
